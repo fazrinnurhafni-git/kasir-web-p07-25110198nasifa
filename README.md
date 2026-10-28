@@ -1,7 +1,7 @@
 # Praktikum 7 — Form Produk Kasir
 
-- Nama: ISI NAMA ANDA
-- NIM: ISI NIM ANDA
+- Nama: NASIFA ZARIAH
+- NIM: 25110198
 - Kelas: TK Grup D
 - Mata kuliah: Pemrograman WEB II
 - Dosen: Juni Ismail, S.Kom., M.Kom.
